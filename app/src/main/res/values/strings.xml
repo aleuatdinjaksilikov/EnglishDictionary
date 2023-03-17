@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">English</string>
+    <string name="search">Search . . .</string>
+    <string name="start">Start</string>
+    <string name="dictionary">Dictionary</string>
+    <string name="text3">This dictionary use for \n pre-intermediate degrees \n word</string>
+    <string name="ingliz_uzbek">Ingliz-Uzbek</string>
+    <string name="text1">Words of all Units</string>
+    <string name="learn">Learn</string>
+    <string name="game">Game</string>
+    <string name="uzbek_ingliz">Uzbek-Ingliz</string>
+    <string name="text2">Har bir unitga tegishli \n sozlar</string>
+    <string name="short_stories">Short Stories</string>
+    <string name="text4">These short stories used \n phrasal verbs</string>
+</resources>
